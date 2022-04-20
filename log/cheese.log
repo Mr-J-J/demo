@@ -1,0 +1,4 @@
+[2022-04-14T13:53:23.541] [INFO] cheese - this is info
+[2022-04-14T13:53:23.543] [WARN] cheese - this is warn
+[2022-04-14T13:53:23.543] [ERROR] cheese - this is error
+[2022-04-14T13:53:23.544] [FATAL] cheese - this is fatal
